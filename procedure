@@ -1,0 +1,13 @@
+1----->python create_encodings.py to get the encodings of the images and the labels.
+This will create encoded-images-data.csv and labels.pkl files.
+
+
+2---->python train.py to train and save the face recognition classifier. This will create classifier.pkl
+
+
+3----->Make folder test-images which contains all the images you want to find people in.
+
+4---->python predict.py to predict the faces in each image.
+
+
+5------>
